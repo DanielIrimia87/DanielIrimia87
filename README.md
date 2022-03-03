@@ -7,8 +7,10 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end Web Development 
 - 📫 How to reach me:
-                  - by Email: daniel_irimia87@yahoo.com
-                  - by LinkedIn : linkedin.com/in/irimia-daniel
+
+                 by Email: daniel_irimia87@yahoo.com  
+                 
+                 by LinkedIn : linkedin.com/in/irimia-daniel
 
 <!---
 Daniel Irimia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
