@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Daniel Irimia
+- 👋 Hi, I’m  Daniel Irimia 
 
 - Enthusiastic Frontend Web Developer eager to contribute to team success , attention to detail and excellent organizational skills. Motivated to learn, grow and excel in IT Industry.
 - Organized and dependable candidate with over 5+ years in restaurant industry, successful at managing multiple priorities with a positive attitude.
 - Skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand.
 - Dedicated professional with history of meeting company goals utilizing consistent and organized practices.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development 
+- Detail-oriented and meticulous employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.
+- Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
+
 - 📫 How to reach me:
 
                  by Email: daniel_irimia87@yahoo.com  
