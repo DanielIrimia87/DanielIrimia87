@@ -1,31 +1,43 @@
-👋 Hi, I’m Daniel — a Software Developer with a passion for Frontend, QA, and 3D Web Experiences
-💻 Tech Stack:
-React • JavaScript • HTML • CSS • Selenium • TestNG • NUnit • Babylon.js • Blender • Git & GitHub • VS Code
+# 👋 Hi, I’m Daniel Irimia
 
-🧪 Focus Areas:
+## 💡 About Me  
+I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **QA Automation**, and **3D Web Visualizations**. I love blending structured logic with interactive UI/UX — and I’m always exploring new technologies that enhance how we build and test digital experiences.
 
-Frontend development for web and mobile
+---
 
-Automated and manual QA (functional/UI)
+## 🧰 Tech Stack
 
-3D data-driven visualizations using Babylon.js
+- **Frontend:** React, JavaScript, HTML, CSS, basic knowledge of Java and C#. 
+- **QA & Testing:** Selenium WebDriver, TestNG, NUnit  
+- **3D & Visualization:** Babylon.js, Blender, GLTF/GLB assets  
+- **Tools & IDEs:** VS Code, Git & GitHub  
+- **AI Assistants:** ChatGPT, GitHub Copilot, Windsurf, Qodo Gen
 
-Excel integration and mesh logic structuring
+---
 
-Modular architecture and reusable components
+## 🔍 What I’m Working On
 
-🛠️ Productivity Tools:
-I use ChatGPT, GitHub Copilot, Windsurf, and Qodo Gen as AI-powered coding assistants to speed up iteration, validate ideas, and write better code, faster.
+- 📦 **3D Warehouse Project** — A Babylon.js scene that visualizes warehouse layouts, racks, pallets, and workers using data from Excel files.  
+- ⚙️ **QA Automation Scripts** — Testing UI flows for complex apps with dynamic selectors.  
+- 🎮 Experimenting with 3D UI ideas and logic-driven environments.
 
-🌍 Mindset:
-Independent, quality-focused, and eager to learn — I love blending visual creativity with structured logic.
+---
 
-📦 Feel free to explore my repositories, and reach out if you want to collaborate!
+## 🎯 What I Value
 
- 
-    by LinkedIn: linkedin.com/in/irimia-daniel
+- Clean, modular code with a purpose  
+- Testing as a core part of development  
+- Human-readable logic  
+- Collaboration, curiosity, and continuous improvement  
 
-<!---
-Daniel Irimia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 How to Reach Me
+
+- 📩 Email: [daniel_irimia87@yahoo.com](daniel_irimia87@yahoo.com) 
+- 💼 LinkedIn: [linkedin.com/in/daniel-irimia](https://www.linkedin.com/in/daniel-irimia)  
+- 🌍 Location: Based in Romania, with work/residency rights in Denmark
+
+---
+
+Thanks for visiting my profile! Feel free to check out my projects or drop me a message if you'd like to collaborate 🤝
