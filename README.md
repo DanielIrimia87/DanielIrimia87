@@ -7,7 +7,7 @@ I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React, JavaScript, HTML, CSS, basic knowledge of Java and C#. 
+- **Technologies:** React, JavaScript, HTML, CSS, basic knowledge of Java and C#. 
 - **QA & Testing:** Selenium WebDriver, TestNG, NUnit  
 - **3D & Visualization:** Babylon.js, Blender, GLTF/GLB assets  
 - **Tools & IDEs:** VS Code, Git & GitHub  
