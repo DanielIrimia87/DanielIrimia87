@@ -35,7 +35,7 @@ I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **
 ## 📫 How to Reach Me
 
 - 📩 Email: [daniel_irimia87@yahoo.com](daniel_irimia87@yahoo.com) 
-- 💼 LinkedIn: [linkedin.com/in/daniel-irimia](https://www.linkedin.com/in/daniel-irimia)  
+- 💼 LinkedIn: [linkedin.com/in/daniel-irimia](https://www.linkedin.com/in/irimia-daniel/)
 - 🌍 Location: Based in Romania, with work/residency rights in Denmark
 
 ---
