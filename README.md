@@ -1,13 +1,29 @@
-- Hey there! 👋 I'm Daniel Irimia, a passionate Frontend Developer with a strong interest in QA Engineering. 🚀
-- I thrive in both independent and collaborative environments, and I'm always up for a new challenge.
-- I have extensive knowledge in web concepts, HTML/CSS, JavaScript, GIT, React JS, and more. 🌐💻
-  
-- As a detail-oriented professional with strong analytical and problem-solving skills, I developed automated testing frameworks using Selenium WebDriver and Java
-  
-- I'm currently seeking opportunities as a QA Engineer or Frontend Developer where I can leverage my skills to deliver high-quality software solutions. If you're looking for someone who is organized, adaptable, and eager to learn, let's connect! 📩
+👋 Hi, I’m Daniel — a Software Developer with a passion for Frontend, QA, and 3D Web Experiences
+💻 Tech Stack:
+React • JavaScript • HTML • CSS • Selenium • TestNG • NUnit • Babylon.js • Blender • Git & GitHub • VS Code
+
+🧪 Focus Areas:
+
+Frontend development for web and mobile
+
+Automated and manual QA (functional/UI)
+
+3D data-driven visualizations using Babylon.js
+
+Excel integration and mesh logic structuring
+
+Modular architecture and reusable components
+
+🛠️ Productivity Tools:
+I use ChatGPT, GitHub Copilot, Windsurf, and Qodo Gen as AI-powered coding assistants to speed up iteration, validate ideas, and write better code, faster.
+
+🌍 Mindset:
+Independent, quality-focused, and eager to learn — I love blending visual creativity with structured logic.
+
+📦 Feel free to explore my repositories, and reach out if you want to collaborate!
 
  
-                 by LinkedIn: linkedin.com/in/irimia-daniel
+    by LinkedIn: linkedin.com/in/irimia-daniel
 
 <!---
 Daniel Irimia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
