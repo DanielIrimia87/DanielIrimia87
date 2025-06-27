@@ -10,7 +10,7 @@ I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **
 - **Technologies:** React, JavaScript, HTML, CSS, basic knowledge of Java and C#. 
 - **QA & Testing:** Selenium WebDriver, TestNG, NUnit  
 - **3D & Visualization:** Babylon.js, Blender, GLTF/GLB assets  
-- **Tools & IDEs:** VS Code, Git & GitHub  
+- **Tools & IDEs:** VS Code, Visual Studio 2022, Git & GitHub
 - **AI Assistants:** ChatGPT, GitHub Copilot, Windsurf, Qodo Gen
 
 ---
