@@ -17,7 +17,7 @@ I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **
 
 ## 🔍 What I’m Working On
 
-- 📦 **3D Warehouse Project** — A Babylon.js scene that visualizes warehouse layouts, racks, pallets, and workers using data from Excel files.  
+- 📦 **3D Warehouse Project** — A basic scene that visualizes warehouse layouts, racks, pallets, and workers using data from Excel files  
 - ⚙️ **QA Automation Scripts** — Testing UI flows for complex apps with dynamic selectors.  
 - 🎮 Experimenting with 3D UI ideas and logic-driven environments.
 
