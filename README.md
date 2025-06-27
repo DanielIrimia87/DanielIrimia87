@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Irimia
 
 ## 💡 About Me  
-I'm a **Software Developer** with a hybrid focus on **Frontend Development**, **QA Automation**, and **3D Web Visualizations**. I love blending structured logic with interactive UI/UX — and I’m always exploring new technologies that enhance how we build and test digital experiences.
+Frontend developer with QA automation skills and experience in 3D visualization using Babylon.js. Proficient in JavaScript, Selenium, and modular UI development. Responsible, well-organized, and quick to adapt to new technologies or project requirements—always aiming to maintain high quality in both the codebase and the user experience.
 
 ---
 
