@@ -11,7 +11,6 @@ Frontend developer with QA automation skills and experience in 3D visualization 
 - **QA & Testing:** Selenium WebDriver, TestNG, NUnit  
 - **3D & Visualization:** Babylon.js, Blender, GLTF/GLB assets  
 - **Tools & IDEs:** VS Code, Visual Studio 2022, Git & GitHub
-- **AI Assistants:** ChatGPT, GitHub Copilot, Windsurf, Qodo Gen
 
 ---
 
